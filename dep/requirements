@@ -1,0 +1,7 @@
+torch
+numpy
+pygame
+ipython
+matplotlib
+seaborn==0.11.1
+gpyopt
